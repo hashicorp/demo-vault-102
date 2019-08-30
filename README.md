@@ -1,2 +1,3 @@
-# demo-vault-102
-Vault 102 lab files
+# Vault 102: Introduction to Vault Operations
+
+This repository contains the supporting files used in the Vault 102 hands-on labs.
