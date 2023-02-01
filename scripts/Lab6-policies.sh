@@ -1,3 +1,6 @@
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 echo "vault policy write base base.hcl"
 vault policy write base base.hcl
 echo ""
