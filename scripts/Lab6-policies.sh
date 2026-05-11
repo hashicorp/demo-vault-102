@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2019, 2026
+
 echo "vault policy write base base.hcl"
 vault policy write base base.hcl
 echo ""

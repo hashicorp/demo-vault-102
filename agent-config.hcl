@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2019, 2026
+
 exit_after_auth = false
 pid_file = "./pidfile"
 
